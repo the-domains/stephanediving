@@ -1,0 +1,28 @@
+name: stephanediving
+favicon: null
+layout_spectrum: 0.25451366719789803
+typography_spectrum: 0.7205811669118702
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.14642872428521514
+  lightness: 0.21106614684686065
+  saturation: 0.44434858742170036
+  rhythmicContrast: 0.4350201152265072
+purpose: []
